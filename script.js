@@ -375,7 +375,7 @@ const method = selectedRadio.value;
 }
 
             finalAddress =
-                `${new_name.value}, ${new_street.value}, ${new_zip.value} ${new_city.value}, ${new_region.value}`;
+                `${new_street.value}, ${new_zip.value} ${new_city.value}, ${new_region.value}`;
 
         } else {
 
